@@ -1,0 +1,9 @@
+{
+    "name": "DisconnectME Ads",
+    "description": "Simple Ads Blocking.",
+    "homeurl": "https://github.com/FadeMind/hosts.extras",
+    "frequency": "occasionally",
+    "issues": "https://github.com/FadeMind/hosts.extras/issues",
+    "url": "https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/DisconnectMEAds.txt",
+    "license": "GPLv3+"
+}

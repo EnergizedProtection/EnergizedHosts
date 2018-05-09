@@ -1,0 +1,9 @@
+{
+    "name": "AdZHosts",
+    "description": "This is a HOSTS file that serves as a sort of blacklist.",
+    "homeurl": "https://adzhosts.fr/",
+    "frequency": "frequently",
+    "issues": "mailto:hajdar@tutanota.com",
+    "url": "https://adzhosts.fr/hosts/adzhosts-android.txt",
+    "license": "Free"
+}

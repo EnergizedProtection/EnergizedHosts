@@ -1,0 +1,9 @@
+{
+    "name": "Adguard Mobile Ads",
+    "description": "AdGuard Ad Blocking Filters https://adguard.com/",
+    "homeurl": "https://github.com/AdguardTeam/AdguardFilters",
+    "frequency": "frequently",
+    "issues": "https://github.com/AdroitAdorKhan/Energized/issues",
+    "url": "https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/AdguardMobileAds.txt",
+    "license": "CC BY-SA 3.0"
+}

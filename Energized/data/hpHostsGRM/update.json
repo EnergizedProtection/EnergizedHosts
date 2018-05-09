@@ -1,0 +1,11 @@
+{
+    "name": "hpGRM",
+    "description": "This file contains sites involved in spam (that do not otherwise meet any other classification criteria) listed in the hpHosts database.",
+    "homeurl": "https://hosts-file.net",
+    "frequency": "frequently",
+    "issues": "mailto:adroit.ador@live.com",
+	"url": "https://hosts-file.net/grm.txt",
+    "license": "Free"
+}
+
+

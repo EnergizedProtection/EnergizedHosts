@@ -1,0 +1,9 @@
+{
+    "name": "Global Advert Servers Blocklist - Personal Edition",
+    "description": "Advertisement Blocking.",
+    "homeurl": "https://hostsfile.mine.nu",
+    "frequency": "frequently",
+    "issues": "https://github.com/AdroitAdorKhan/Energized/issues",
+    "url": "https://hostsfile.mine.nu/hosts0.txt",
+    "license": "LGPL"
+}

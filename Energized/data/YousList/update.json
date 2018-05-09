@@ -1,0 +1,11 @@
+{
+    "name": "YousList",
+    "description": "Block filter for Adblock Plus, uBlock Origin, uBlock, 1Blocker, AdAway, and AdGuard.",
+    "homeurl": "https://github.com/yous/YousList",
+    "frequency": "frequently",
+    "issues": "https://github.com/yous/YousList/issues",
+    "url": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
+    "license": "CC BY 4.0"
+}
+
+
