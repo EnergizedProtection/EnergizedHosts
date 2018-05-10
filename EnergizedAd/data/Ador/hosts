@@ -265,6 +265,17 @@
 0.0.0.0 a.spankbang.com
 # Porn Ads & Annoyance
 
+# Kissanime.ru Blockings
+0.0.0.0 fnkyyrgraizy.com
+0.0.0.0 www.junbi-tracker.com
+0.0.0.0 ads.2mdnsys.com
+0.0.0.0 junbi-tracker.com
+# Kissanime.ru Ads & Trackings
+
+# Forbes Blockings
+0.0.0.0 forbesvid-a.akamaihd.net
+# Forbes Autoplaying Videos
+
 # Bangladeshi Blockings
 0.0.0.0 ad.shorgo.com
 0.0.0.0 www.green-red.com
