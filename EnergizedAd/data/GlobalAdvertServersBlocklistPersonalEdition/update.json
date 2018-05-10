@@ -4,6 +4,6 @@
     "homeurl": "https://hostsfile.mine.nu",
     "frequency": "frequently",
     "issues": "https://github.com/AdroitAdorKhan/Energized/issues",
-    "url": "https://hostsfile.mine.nu/hosts0.txt",
+    "url": "https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/GlobalAdvertServersBlocklistPersonalEdition.txt",
     "license": "LGPL"
 }
