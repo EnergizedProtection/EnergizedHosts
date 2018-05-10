@@ -1,7 +1,7 @@
 # AdguardMobileSpyware Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last Converted - Wed, 09 May 2018 09:39:46 +0000
+# Last Converted - Thu, 10 May 2018 07:38:37 +0000
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 adeventtracker.spotify.com

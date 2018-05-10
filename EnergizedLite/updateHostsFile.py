@@ -919,7 +919,7 @@ def write_opening_header(final_file, **header_params):
     final_file.seek(0)  # Write at the top.
     write_data(final_file, "# Energized - ad.porn.malware blocking.\n"
                            "# A merged collection of hosts from reputable sources.\n")
-    write_data(final_file, "# https://ador.chorompotro.com/\n# Energized Lite Protection\n# Version: 1.0\n")
+    write_data(final_file, "# https://ador.chorompotro.com/\n# Energized Lite Protection\n# Version: " + time.strftime("%j", time.gmtime()) + "\n")
     write_data(final_file, "# Build Date: " + time.strftime("%B %d %Y", time.gmtime()) + "\n")
 
     if header_params["extensions"]:
