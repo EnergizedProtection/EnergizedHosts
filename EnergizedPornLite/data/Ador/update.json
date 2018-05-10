@@ -3,7 +3,7 @@
     "description": "My OWN Blocklist.",
     "homeurl": "https://ador.chorompotro.com/",
     "frequency": "frequently",
-    "issues": "mailto:adroit.ador@live.com",
+    "issues": "https://github.com/AdroitAdorKhan/Energized/issues",
     "url": "https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHostsPorn/",
     "license": "MIT"
 }
