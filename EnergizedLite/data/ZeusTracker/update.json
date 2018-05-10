@@ -4,7 +4,7 @@
     "homeurl": "https://zeustracker.abuse.ch/",
     "frequency": "frequently",
     "issues": "https://zeustracker.abuse.ch/contact.php",
-    "url": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
+    "url": "https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/ZeusTracker.txt",
 	"license": "UNKNOWN"
 }
 
