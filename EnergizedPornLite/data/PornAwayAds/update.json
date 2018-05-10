@@ -1,0 +1,11 @@
+{
+    "name": "PornAway Ads",
+    "description": "Porn Ads Blocking.",
+    "homeurl": "https://github.com/mhxion/pornaway",
+    "frequency": "frequently",
+    "issues": "https://github.com/mhxion/pornaway/issues",
+	"url": "https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn-ads.txt",
+    "license": "GPLv3"
+}
+
+

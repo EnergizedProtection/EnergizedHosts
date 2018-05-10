@@ -1,0 +1,11 @@
+{
+    "name": "PornAway Sites",
+    "description": "Porn Sites Blocking.",
+    "homeurl": "https://github.com/mhxion/pornaway",
+    "frequency": "frequently",
+    "issues": "https://github.com/mhxion/pornaway/issues",
+	"url": "https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn-sites.txt",
+    "license": "GPLv3"
+}
+
+
