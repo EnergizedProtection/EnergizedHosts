@@ -1,0 +1,11 @@
+{
+    "name": "No Tracking",
+    "description": "Automatically updated, moderated and optimized lists for blocking ads, trackers and other online garbage.",
+    "homeurl": "https://github.com/notracking/hosts-blocklists",
+    "frequency": "frequently",
+    "issues": "https://github.com/notracking/hosts-blocklists/issues",
+	"url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt",
+    "license": "UNKNOWN"
+}
+
+

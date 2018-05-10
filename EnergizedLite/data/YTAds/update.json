@@ -1,0 +1,11 @@
+{
+    "name": "YouTubeAdBlock",
+    "description": "Blocking YouTube Ads.",
+    "homeurl": "https://github.com/arthurgeron/blockYTAds",
+    "frequency": "frequently",
+    "issues": "https://github.com/arthurgeron/blockYTAds/issues",
+    "url": "https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt",
+    "license": "MIT"
+}
+
+

@@ -1,0 +1,11 @@
+{
+    "name": "hpATS",
+    "description": "This file contains ad/tracking servers listed in the hpHosts database.",
+    "homeurl": "https://hosts-file.net",
+    "frequency": "frequently",
+    "issues": "mailto:adroit.ador@live.com",
+	"url": "https://hosts-file.net/ad_servers.txt",
+    "license": "Free"
+}
+
+

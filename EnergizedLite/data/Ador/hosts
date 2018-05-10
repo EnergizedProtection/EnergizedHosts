@@ -1,0 +1,616 @@
+# Energized - ad.porn.malware blocking.
+# A merged collection of hosts from reputable sources.
+# https://ador.chorompotro.com/
+
+# Energized Starts
+
+# Addthis.com Blockings
+0.0.0.0 m.addthisedge.com
+0.0.0.0 m.addthis.com
+0.0.0.0 s7.addthis.com
+0.0.0.0 su.addthis.com
+# Addthis.com Annoyances
+
+# UC Blockings
+0.0.0.0 sg.napi.ucweb.com
+0.0.0.0 adashx4sg.ut.taobao.com
+0.0.0.0 push.maribacaberita.com
+0.0.0.0 img.uodoo.com
+0.0.0.0 api.bdexpress.uodoo.com
+0.0.0.0 uc.ucweb.com
+0.0.0.0 image.uc.cn
+0.0.0.0 ynuf.aliapp.org
+0.0.0.0 holmeshelp.ucweb.com
+0.0.0.0 image-gj.9game.com
+0.0.0.0 api.allnews.uodoo.com
+0.0.0.0 allnews.uodoo.com
+0.0.0.0 bdexpress.uodoo.com
+0.0.0.0 www.uodoo.com
+0.0.0.0 uc9.ucweb.com
+0.0.0.0 ucnews.ucweb.com
+0.0.0.0 www.headlinecamp.com
+0.0.0.0 gj.track.uc.cn
+0.0.0.0 goodnews.uodoo.com
+0.0.0.0 uodoo.com
+0.0.0.0 mp.ucweb.com
+0.0.0.0 img.mp.ucweb.com
+0.0.0.0 uc.cn
+0.0.0.0 www.thestartmagazine.com
+# UC Ads, Tracking & Annoyance 
+
+# Shareit Blockings
+0.0.0.0 api.wshareit.com
+0.0.0.0 wshareit.com
+0.0.0.0 cdn.wshareit.com
+0.0.0.0 cdn.ushareit.com
+# Shareit Ads & Annoyance
+
+# OnePlusBBS Blockings
+0.0.0.0 analytics.oneplus.cn
+0.0.0.0 click.oneplus.cn
+# OnePlusBBS Ads & Analystics
+
+# Opera Mini Blockings
+0.0.0.0 api-a.op-mobile.opera.com
+0.0.0.0 api2.batmobi.net
+0.0.0.0 dsp.batmobi.net
+0.0.0.0 batmobi.net
+0.0.0.0 ploy.batmobi.net
+0.0.0.0 img.transcoder.opera.com
+0.0.0.0 trends-a.op-mobile.opera.com
+# 0.0.0.0 global-turbo2-7.opera-mini.net
+# 0.0.0.0 global-turbo2-1.opera-mini.net
+# 0.0.0.0 global-turbo2.opera-mini.net
+0.0.0.0 news-in.op-mobile.opera.com
+0.0.0.0 mini5.opera-mini.net
+0.0.0.0 mini5-7.opera-mini.net
+# Opera Mini Ada & Annoyance
+
+# Textra Blockings
+0.0.0.0 ads7.textra.me
+# Textra Ads
+
+# BBM Blockings
+0.0.0.0 dai-ads.bbmessaging.com
+0.0.0.0 control.ads.bbm.com
+# BBM Ads
+
+# Apple Blockings
+0.0.0.0 stats.gc.apple.com
+0.0.0.0 iadsdk.apple.com
+# Apple Tracking
+
+# Huawei Blockings
+0.0.0.0 servicesupport.hicloud.com
+# Huawei Tracking
+
+# Android Track Blockings
+0.0.0.0 e.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 app-measurement.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 log.musical.ly
+0.0.0.0 live.direct.ly
+0.0.0.0 device.zhiliaoapp.com
+0.0.0.0 uop.umeng.com
+0.0.0.0 alog.umeng.com
+0.0.0.0 alog.umengcloud.com
+0.0.0.0 api.branch.io
+0.0.0.0 cp.pushwoosh.com
+0.0.0.0 ws.tapjoyads.com
+0.0.0.0 connect.tapjoy.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 adlog.flurry.com
+0.0.0.0 data.flurry.com
+0.0.0.0 wd.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 supersonicads-a.akamaihd.net
+0.0.0.0 i.w.inmobi.com
+0.0.0.0 sdktm.w.inmobi.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 api.gameanalytics.com
+0.0.0.0 med.heyzap.com
+0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 gate.hockeyapp.net
+0.0.0.0 sdk.hockeyapp.net
+0.0.0.0 engine.fyber.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 graph.accountkit.com
+0.0.0.0 1681.engine.mobileapptracking.com
+0.0.0.0 engine.mobileapptracking.com
+0.0.0.0 mobileapptracking.com
+0.0.0.0 config.ioam.de
+0.0.0.0 logs.locarta.co
+0.0.0.0 postback.pointwise.co
+0.0.0.0 dev.appboy.com
+0.0.0.0 z.moatads.com
+0.0.0.0 appspot-preview.l.google.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ssl.google-analytics.com
+# 0.0.0.0 android.clients.google.com [Breaks Google Android]
+0.0.0.0 clients1.google.com
+0.0.0.0 adservice.google.de
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 id.google.de
+0.0.0.0 m.quantcount.com
+0.0.0.0 app.adjust.com
+0.0.0.0 utraffic.engine.adglare.net
+0.0.0.0 piwik.darken.eu
+# Android Ads & Tracking
+
+# Pandora Blockings
+0.0.0.0 ad.pandora.tv
+0.0.0.0 ads.pandora.tv.net
+0.0.0.0 stats.pandora.com
+0.0.0.0 gap.sp1.convertro.com
+# Pandora Ads
+
+# Reddit Blockings
+0.0.0.0 ads.reddit.com
+0.0.0.0 pixel.redditmedia.com
+# Reddit Ads & Annoyances
+
+# Snapchat Blockings
+0.0.0.0 gcs.sc-cdn.net
+0.0.0.0 cf-st.sc-cdn.net
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 adserver.snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 euc.adserver.snapads.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 www.leanplum.com
+0.0.0.0 tr.snapchat.com
+# Snapchat Ads & Tracking
+
+# Whatsapp Blockings
+0.0.0.0 crashlogs.whatsapp.net
+# Whatsapp Tracking
+
+# Quizduell Blockings
+0.0.0.0 rt.applovin.com
+0.0.0.0 d.applvn.com
+0.0.0.0 a.applvn.com
+# Quizduell Tracking
+
+# Yahoo Blockings
+0.0.0.0 ads.yahoo.com
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 beap-bc.yahoo.com
+0.0.0.0 beap.adss.yahoo.com
+0.0.0.0 clicks.beap.bc.yahoo.com
+0.0.0.0 js-apac-ss.ysm.yahoo.com
+0.0.0.0 n.gemini.yahoo.com
+0.0.0.0 na.ads.yahoo.com
+0.0.0.0 p3p.yahoo.com
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 pr.ybp.yahoo.com
+0.0.0.0 us.adserver.yahoo.com
+# Yahoo-JP Blockings
+0.0.0.0 yads.c.yimg.jp
+0.0.0.0 yads.yahoo.co.jp
+# Yahoo-Flurry Blockings
+0.0.0.0 ad.flurry.com
+0.0.0.0 adlog.flurry.com
+0.0.0.0 ads.flurry.com
+0.0.0.0 cdn.flurry.com
+0.0.0.0 data.flurry.com
+0.0.0.0 flurry.com
+0.0.0.0 proton.flurry.com
+0.0.0.0 www.flurry.com
+0.0.0.0 flurry.cachefly.net
+# Yahoo Ads & Annoyances
+
+# Xiaomi Blockings
+0.0.0.0 abtest.mistat.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 a.stat.xiaomi.com
+0.0.0.0 bss.pandora.xiaomi.com
+0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 de.pandora.xiaomi.com
+0.0.0.0 e.ad.xiaomi.com
+0.0.0.0 image.box.xiaomi.com
+0.0.0.0 jellyfish.pandora.xiaomi.com
+0.0.0.0 lxcdn.dl.files.xiaomi.net
+0.0.0.0 m.bss.pandora.xiaomi.com
+0.0.0.0 mlog.search.xiaomi.net
+0.0.0.0 notice.game.xiaomi.com
+0.0.0.0 o2o.api.xiaomi.com
+0.0.0.0 pdc.micloud.xiaomi.net
+0.0.0.0 ppurifier.game.xiaomi.com
+0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sec-cdn.static.xiaomi.net
+0.0.0.0 sec.resource.xiaomi.net
+0.0.0.0 shenghuo.xiaomi.com
+0.0.0.0 stat.pandora.xiaomi.com
+0.0.0.0 test.ad.xiaomi.com
+0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 test.zeus.ad.xiaomi.com
+0.0.0.0 wtradv.market.xiaomi.com
+0.0.0.0 xiaomiir.yaokantv.com
+# Xiaomi Ads, Tracking & Annoyances
+
+# Gionee Blockings
+0.0.0.0 ads.gionee.com
+0.0.0.0 pdl.gionee.com
+# Gionee Ads
+
+# Oppo Blockings
+0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 bdapi.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 httpdns.push.oppomobile.com
+0.0.0.0 i.flow.browser.oppomobile.com
+0.0.0.0 imagzine.oppomobile.com
+0.0.0.0 oppo.yidianzixun.com
+# Oppo Ads & Annoyances
+
+# Porn Blockings
+0.0.0.0 a.spankbang.com
+# Porn Ads & Annoyance
+
+# Bangladeshi Blockings
+0.0.0.0 ad.shorgo.com
+0.0.0.0 www.green-red.com
+0.0.0.0 green-red.com
+0.0.0.0 glossyads.com
+0.0.0.0 ritsllc.com
+0.0.0.0 www.bd-ads.com
+0.0.0.0 bd-ads.com
+0.0.0.0 adsdream.com
+0.0.0.0 reditads.com
+0.0.0.0 www.nufa-ad.com
+0.0.0.0 nufa-ad.com
+0.0.0.0 bdads.mobi
+0.0.0.0 www.adplay-mobile.com
+0.0.0.0 app.tads.techtunes.com.bd
+0.0.0.0 clicxbd.com
+0.0.0.0 Adz4.Club
+0.0.0.0 wap4dollar.com
+0.0.0.0 content.green-red.com
+# Bangladeshi Ad Networks
+
+# Normal Ads & Stuffs
+
+0.0.0.0 p249671.clksite.com
+0.0.0.0 nextlnk3.com
+0.0.0.0 2mdnsys.com
+0.0.0.0 adservice.google.com.bd
+0.0.0.0 p249671.clkcln.com
+0.0.0.0 p249671.mybestmv.com
+0.0.0.0 p206419.mybestmv.com
+0.0.0.0 mybestmv.com
+0.0.0.0 interedy.info
+0.0.0.0 35.184.188.211
+0.0.0.0 bustime.xyz
+0.0.0.0 www.search-privacy.online
+0.0.0.0 americapixel.com
+0.0.0.0 go.americapixel.com
+0.0.0.0 install.utilitooltech.com
+0.0.0.0 download.weatherblink.com
+0.0.0.0 ds.moviegoat.com
+0.0.0.0 install.incognitosearches.com
+0.0.0.0 europerty.pro
+0.0.0.0 install.speedomizer.com
+0.0.0.0 install.online-live-streaming.com
+0.0.0.0 i3j3u3u9.ssl.hwcdn.net
+0.0.0.0 install.365-stream.com
+0.0.0.0 365-stream.com
+0.0.0.0 install.streamit-online.com
+0.0.0.0 streamit-online.com
+0.0.0.0 presentation-hkg1.turn.com
+0.0.0.0 topradiostationsonline.com
+0.0.0.0 www.radiorage.com
+0.0.0.0 w.myspicylinks.com
+0.0.0.0 www.hibids10.com
+0.0.0.0 p35296.clksite.com
+0.0.0.0 movie.mytopappz.com
+0.0.0.0 www.nextlnk1.com
+0.0.0.0 p35296.clkcln.com
+0.0.0.0 funsafetab.com
+0.0.0.0 jackettrain.com
+0.0.0.0 metricfast.com
+0.0.0.0 online-live-streaming.com
+0.0.0.0 install.thegamesearcher.com
+0.0.0.0 thegamesearcher.com
+0.0.0.0 sfzhd.top
+0.0.0.0 amgload.net
+0.0.0.0 xk9n.amgload.net
+0.0.0.0 n1-r2d2.amgload.net
+0.0.0.0 n2-r2d2.amgload.net
+0.0.0.0 n6-r2d2.amgload.net
+0.0.0.0 xk6o.amgload.net
+0.0.0.0 piguiqproxy.com
+0.0.0.0 kz6c.piguiqproxy.com
+0.0.0.0 tweowhvrim.review
+0.0.0.0 funsafetabsearch.com
+0.0.0.0 search.funsafetabsearch.com
+0.0.0.0 pl14374597.puserving.com
+0.0.0.0 bidgears.com
+0.0.0.0 install.gamez4us.com
+0.0.0.0 viralvideos.tips
+0.0.0.0 gamez4us.com
+0.0.0.0 i0.wp.com
+0.0.0.0 i1.wp.com
+0.0.0.0 i2.wp.com
+0.0.0.0 p249671.mycdn.co
+0.0.0.0 appared.online
+0.0.0.0 nextlnk1.com
+0.0.0.0 lp.moviesfanatic.com
+0.0.0.0 jsintegrity.com
+0.0.0.0 ads.servebom.com
+0.0.0.0 stackcommerce.com
+0.0.0.0 ads1-adnow.com
+0.0.0.0 engage.bidsystem.com
+0.0.0.0 green-red.com
+0.0.0.0 content.green-red.com
+0.0.0.0 display.green-red.com
+0.0.0.0 theonecdn.com
+0.0.0.0 p206419.clksite.com
+0.0.0.0 felinetech.net
+0.0.0.0 ads.felinetech.net
+0.0.0.0 fixerinst.com
+0.0.0.0 waframedia20.com
+0.0.0.0 pushno.com
+0.0.0.0 in.v12group.com
+0.0.0.0 movie.myfastappz.com
+0.0.0.0 zeotap.com
+0.0.0.0 mwzeom.zeotap.com
+0.0.0.0 offers.lendingtree.com
+0.0.0.0 g00.boston.com
+0.0.0.0 cache.boston.com
+0.0.0.0 realestate.w.o0bc.com
+0.0.0.0 boston-services.gabriels.net
+0.0.0.0 smetrics.boston.com
+0.0.0.0 c.o0bc.com
+0.0.0.0 www.sdad.guru
+0.0.0.0 cdnondemand.org
+0.0.0.0 xdadevelopers.browsi.mobi
+0.0.0.0 unpkg.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 adserver.xpanama.net
+0.0.0.0 xpanama.net
+0.0.0.0 criteo.net
+0.0.0.0 static.criteo.net
+0.0.0.0 lb.statsevent.com
+0.0.0.0 statsevent.com
+0.0.0.0 sri.jsintegrity.com
+0.0.0.0 shermore.info
+0.0.0.0 arrassley.info
+0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
+0.0.0.0 d3al52d8cojds7.cloudfront.net
+0.0.0.0 c1.popads.net
+0.0.0.0 c2.popads.net
+0.0.0.0 www.wguuomjdav.com
+0.0.0.0 www.otpckmnnfm.com
+0.0.0.0 popads.net
+0.0.0.0 jsc.mgid.com
+0.0.0.0 boudja.com
+0.0.0.0 rosemand.pro
+0.0.0.0 www.google-analytics.com
+0.0.0.0 beacons.gcp.gvt2.com 
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 ads.2mdnsys.com
+0.0.0.0 js.genieessp.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 wmedia.adk2.co
+0.0.0.0 convertexperiments.com
+0.0.0.0 cdn-3.convertexperiments.com
+0.0.0.0 shield.sitelock.com
+0.0.0.0 sitelock.com
+0.0.0.0 cse.google.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 googletagservices.com
+0.0.0.0 adservex.media.net
+0.0.0.0 media.net
+0.0.0.0 cdns.gigya.com
+0.0.0.0 gigya.com
+0.0.0.0 consent.truste.com
+0.0.0.0 truste.com
+0.0.0.0 vjs.zencdn.net
+0.0.0.0 zencdn.net
+0.0.0.0 js.gleam.io
+0.0.0.0 gleam.io
+0.0.0.0 analytics.suggestv.io
+0.0.0.0 suggestv.io
+0.0.0.0 diodxcszlbmwk.cloudfront.net
+0.0.0.0 edgesuite.net
+0.0.0.0 time.hls.ak.o.brightcove.com.edgesuite.net
+0.0.0.0 munchkin.marketo.net
+0.0.0.0 tags.tiqcdn.com
+0.0.0.0 tiqcdn.com
+0.0.0.0 tqn.com
+0.0.0.0 fthmb.tqn.com
+0.0.0.0 smashseek.com
+0.0.0.0 pycvhwxtqhknb.com
+0.0.0.0 digitotal.xyz
+0.0.0.0 bet365.com
+0.0.0.0 newsmaxfeednetwork.com
+0.0.0.0 s.newsmaxfeednetwork.com
+0.0.0.0 ads2.contentabc.com
+0.0.0.0 contentabc.com
+0.0.0.0 wmmnhcmkhglhl.com
+0.0.0.0 a-ads.com
+0.0.0.0 ad.a-ads.com
+0.0.0.0 secure.quantserve.com
+0.0.0.0 quantserve.com
+0.0.0.0 1f58098dd54.com
+0.0.0.0 certaken.com
+0.0.0.0 ec2-13-127-188-209.ap-south-1.compute.amazonaws.com
+0.0.0.0 hh-btr.com
+0.0.0.0 wap4dollar.com
+0.0.0.0 520127982.world
+0.0.0.0 games.myfastappz.com
+0.0.0.0 p273214.clkcln.com
+0.0.0.0 clkcln.com
+0.0.0.0 www.myfastappz.com
+0.0.0.0 myfastappz.com
+0.0.0.0 music.myfastappz.com
+0.0.0.0 www.nextlnk2.com
+0.0.0.0 www.nextlnk3.com
+0.0.0.0 use.bravo-dog.com
+0.0.0.0 p273214.clksite.com
+0.0.0.0 clksite.com
+0.0.0.0 adpixo.com
+0.0.0.0 cdn.adpixo.com
+0.0.0.0 jwpcdn.com
+0.0.0.0 ssl.p.jwpcdn.com
+0.0.0.0 jwpsrv.com
+0.0.0.0 fruitadblock.net
+0.0.0.0 t1.fruitadblock.net
+0.0.0.0 safelyawake.com
+0.0.0.0 aclick.adhoc2.net
+0.0.0.0 install.cryptoverto.com
+0.0.0.0 cryptoverto.com
+0.0.0.0 dinuclean.com
+0.0.0.0 sensive.pro
+0.0.0.0 pvclouds.com
+0.0.0.0 pl14477446.pvclouds.com
+0.0.0.0 qulsqiqrev.com
+0.0.0.0 www.qulsqiqrev.com
+0.0.0.0 ydthazdza.com
+0.0.0.0 www.ydthazdza.com
+0.0.0.0 yqucllrbg.com
+0.0.0.0 www.yqucllrbg.com
+0.0.0.0 ltnfhltuksarpq.com
+0.0.0.0 www.ltnfhltuksarpq.com
+0.0.0.0 p243594.clkcln.com
+0.0.0.0 cwdnbhhmdnm.com
+0.0.0.0 www.cwdnbhhmdnm.com
+0.0.0.0 yzuezvrahok.com
+0.0.0.0 www.yzuezvrahok.com
+0.0.0.0 ewbejjirdygik.com
+0.0.0.0 www.ewbejjirdygik.com
+0.0.0.0 bwnjijl7w.com
+0.0.0.0 luckypushh.com
+0.0.0.0 wmvnyunntuuz.com
+0.0.0.0 www.wmvnyunntuuz.com
+0.0.0.0 viral782.com
+0.0.0.0 znsqykdmcjh.com
+0.0.0.0 www.znsqykdmcjh.com
+0.0.0.0 sbxzvllyahzn.com
+0.0.0.0 www.sbxzvllyahzn.com
+0.0.0.0 rbrxrcikro.com
+0.0.0.0 www.rbrxrcikro.com
+0.0.0.0 1fwjpdwguvqs.com
+0.0.0.0 fortpush.com
+0.0.0.0 p260540.clksite.com
+0.0.0.0 jiocdn.us
+0.0.0.0 creative.wwwpromoter.com
+0.0.0.0 smcheck.org
+0.0.0.0 zx6s.smcheck.org
+0.0.0.0 jsdelivr.net
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 strialist.info
+0.0.0.0 xothere.info
+0.0.0.0 p281850.clkcln.com
+0.0.0.0 freegeoip.net
+0.0.0.0 www.cpm20.com
+0.0.0.0 install.topradiostationsonline.com
+0.0.0.0 ads.linkshrink.net
+0.0.0.0 17105392a65.com
+0.0.0.0 getyourchance16.loan
+0.0.0.0 bigfarm.goodgamestudios.com
+0.0.0.0 c.snnd.co
+0.0.0.0 asdkd.tutuapp.com
+0.0.0.0 wizardsbd.com
+0.0.0.0 www.wizardsbd.com
+0.0.0.0 tracking-opi.fonpit.de
+0.0.0.0 fscl01.fonpit.de+     
+0.0.0.0 static-opi.fonpit.de
+0.0.0.0 epnt.ebay.com
+0.0.0.0 adgebra.co.in
+0.0.0.0 cdn.imgwzzmb.net
+0.0.0.0 rover.ebay.com
+0.0.0.0 d31qbv1cthcecs.cloudfront.net
+0.0.0.0 ads.vntsm.com
+0.0.0.0 360yield.com
+0.0.0.0 ad.360yield.com
+0.0.0.0 adnxs.com
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 prebid.adnxs.com
+0.0.0.0 adtech.de
+0.0.0.0 adserver.adtech.de
+0.0.0.0 advertising.com
+0.0.0.0 rub.pxl.ace.advertising.com
+0.0.0.0 turn.com
+0.0.0.0 ad.turn.com
+0.0.0.0 venatusmedia.com
+0.0.0.0 track.venatusmedia.com
+0.0.0.0 vntsm.com
+0.0.0.0 hb.vntsm.com
+0.0.0.0 bttrack.com
+0.0.0.0 casalemedia.com
+0.0.0.0 as.casalemedia.com
+0.0.0.0 contextweb.com
+0.0.0.0 bh.contextweb.com
+0.0.0.0 creative-serving.com
+0.0.0.0 ads.creative-serving.com
+0.0.0.0 criteo.com
+0.0.0.0 bidder.criteo.com
+0.0.0.0 criteo.net
+0.0.0.0 static.criteo.net
+0.0.0.0 djtflbt20bdde.cloudfront.net
+0.0.0.0 dotomi.com
+0.0.0.0 media.msg.dotomi.com
+0.0.0.0 eyeviewads.com
+0.0.0.0 track.eyeviewads.com
+0.0.0.0 lijit.com
+0.0.0.0 ap.lijit.com
+0.0.0.0 lkqd.net
+0.0.0.0 ad.lkqd.net
+0.0.0.0 nr-data.net
+0.0.0.0 bam.nr-data.net
+0.0.0.0 openx.net
+0.0.0.0 venatusmedia-d.openx.net
+0.0.0.0 primecaster.net
+0.0.0.0 api.primecaster.net
+0.0.0.0 pubmatic.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 tap-secure.rubiconproject.com
+0.0.0.0 sonobi.com
+0.0.0.0 apex.go.sonobi.com
+0.0.0.0 statcounter.com
+0.0.0.0 c.statcounter.com
+0.0.0.0 www.statcounter.com
+0.0.0.0 venatusmedia.com
+0.0.0.0 track.venatusmedia.com
+0.0.0.0 w55c.net
+0.0.0.0 cti.w55c.net
+0.0.0.0 bidr.io
+0.0.0.0 match.prod.bidr.io
+0.0.0.0 netseer.com
+0.0.0.0 cm.netseer.com
+0.0.0.0 rundsp.com
+0.0.0.0 match.rundsp.com
+0.0.0.0 lx2k6.meganotify.com
+0.0.0.0 tribution.mobi
+0.0.0.0 ioph0.com
+0.0.0.0 dff2h0hbfv6w4.cloudfront.net
+0.0.0.0 news-notification.tools
+0.0.0.0 v1.notifications-online.systems
+0.0.0.0 www.hibids10.com
+
+# Energized Ends.

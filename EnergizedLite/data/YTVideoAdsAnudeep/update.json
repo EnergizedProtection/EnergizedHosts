@@ -1,0 +1,11 @@
+{
+    "name": "YouTube Video Ads Blocklist Hosts",
+    "description": "An expiremental hosts list for blocking YouTube video ads.",
+    "homeurl": "https://github.com/anudeepND/youtubeadsblacklist",
+    "frequency": "frequently",
+    "issues": "mailto:anudeep@protonmail.com",
+    "url": "https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt",
+    "license": "WTFPL"
+}
+
+
